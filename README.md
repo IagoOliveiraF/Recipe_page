@@ -8,7 +8,7 @@ Esses desafios servem para o estudo e auto aprimoramento nas habilidades de dese
 - Estilização básica com CSS.
 - Uso de Listas e Tabelas com HTML
 - Uso do Flexbox
-- Uso da Responsabilidade
+- Uso da Responsividade
   
 ## Visão geral
 
@@ -16,9 +16,10 @@ Esses desafios servem para o estudo e auto aprimoramento nas habilidades de dese
 
 Este foi um desenvolvimento de um projeto simples de baixa complexidade.
 
-Aprendizado e o que foi desenvolvido durante
+Aprendizado: o que foi desenvolvido de novo durante esse projeto, foi o uso e estilização das listas e tabelas, Tags que ainda não havia utilizado.
 
-### Acesse o projeto, clicando neste link: Em andamento
+
+### Acesse o projeto, clicando neste link: https://iagooliveiraf.github.io/Recipe_page/
 ### Página do Desafio: https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
 
 
@@ -26,8 +27,9 @@ Aprendizado e o que foi desenvolvido durante
 ## Screenshot
 
 ###  Versão Desktop
-Em Andamento
+<img width="2543" height="1351" alt="image" src="https://github.com/user-attachments/assets/f7875176-515a-4d54-a073-61aed80c6125" />
 
 
 ###  Versão Mobile
-Em Andamento
+<img width="288" height="1152" alt="image" src="https://github.com/user-attachments/assets/acd12b02-dcb2-4098-b255-3d1af922f63c" />
+
